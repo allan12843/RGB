@@ -2,5 +2,3 @@ Shades of Blue
 
 Blue
 Cyan
-Cobalt 
-Azure
